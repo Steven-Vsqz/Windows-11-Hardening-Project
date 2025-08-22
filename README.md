@@ -15,7 +15,26 @@ My focus was endpoint hardening. I had only read about it, so I decided to put i
 - Ensures compliance with security standards and best practices 
 - Protects sensitive data from theft or accidental exposure
 
-In short, hardening turns a standard system into a **resilient and secure endpoint**.  
+Think of endpoint hardening like securing a newly purchased house.
+- You close and lock all the doors and windows → (disable unnecessary ports and services).
+- You replace the old locks with stronger ones → (set strong password and account lockout policies).
+- You install cameras and alarms → (enable logging and monitoring with tools like Sysmon/Windows Defender).
+- You set up motion-sensor lights around the house → (firewall blocking inbound traffic by default).
+- You install a safe to protect valuables → (enable BitLocker encryption for sensitive data).
+
+The goal is simply to reduces the attack surface by securing the  system (less ways for attackers to break in).
+
+---
+
+## 🖼 Screenshots
+
+<p align="center">
+  <img src="<!-- INSERT SCREENSHOT URL HERE -->" width="80%" alt="Screenshot 1" />  
+  <br><br>
+  <img src="<!-- INSERT SCREENSHOT URL HERE -->" width="80%" alt="Screenshot 2" />
+</p>
+
+> Replace the `<!-- INSERT SCREENSHOT URL HERE -->` placeholders with images of your hardening steps, Windows Defender, Firewall configuration, BitLocker status, etc.
 
 ---
 
