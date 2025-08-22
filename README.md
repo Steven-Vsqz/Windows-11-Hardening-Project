@@ -26,18 +26,6 @@ The goal is simply to reduces the attack surface by securing the  system (less w
 
 ---
 
-## 🖼 Screenshots
-
-<p align="center">
-  <img src="<!-- INSERT SCREENSHOT URL HERE -->" width="80%" alt="Screenshot 1" />  
-  <br><br>
-  <img src="<!-- INSERT SCREENSHOT URL HERE -->" width="80%" alt="Screenshot 2" />
-</p>
-
-> Replace the `<!-- INSERT SCREENSHOT URL HERE -->` placeholders with images of your hardening steps, Windows Defender, Firewall configuration, BitLocker status, etc.
-
----
-
 ## 📚 Table of Contents
 - [🔑 Step 1: Account Policies](#-step-1-account-policies)  
 - [🔄 Step 2: Windows Updates](#-step-2-windows-updates)  
@@ -123,21 +111,21 @@ Protects sensitive data at rest. If the machine is stolen, attackers cannot read
 
 ---
 
-## 📊 Key Takeaways
+<detail close>
+  
+## 🖼 Screenshots
 
-- Applied **Group Policy** to enforce account & password policies  
-- Enabled **Windows Defender Antivirus** for real-time protection  
-- Hardened **Windows Firewall** to block inbound threats  
-- Reduced attack surface with **SmartScreen + app control**  
-- Secured sensitive data with **BitLocker encryption**  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c72bd134-6322-47dc-a8af-1bfe14813907" width="80%" alt="Screenshot 1" /> 
+  <img src="https://github.com/user-attachments/assets/673c33a0-a61b-495d-b07d-ee107d6d3650" width="80%" alt="Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/7e70d90d-fba8-436a-874f-3b7bb5ab0472" width="80%" alt="Screenshot 3" />
+  <img src="https://github.com/user-attachments/assets/3bac75c5-c371-4d62-85c5-5c25b478a357" width="80%" alt="Screenshot 4" />
+  <img src="https://github.com/user-attachments/assets/5629fd4a-8210-4061-b2bb-852c3259547c" width="80%" alt="Screenshot 5" />
+  <img src="https://github.com/user-attachments/assets/ebed387e-a6cd-4556-806e-a7c5895eeca3" width="80%" alt="Screenshot 6" />
+  <img src="https://github.com/user-attachments/assets/8630c281-a090-443f-8f8d-31a896c88bab" width="80%" alt="Screenshot 7" />
+</p>
 
----
-
-## 🚀 Next Steps
-
-- Deploy **Sysmon (Sysinternals)** for advanced logging  
-- Practice **log analysis & detection engineering**  
-- Document attacker simulations (e.g., **malicious PowerShell detection**)  
+</detail>
 
 ---
 
