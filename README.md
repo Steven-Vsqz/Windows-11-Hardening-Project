@@ -33,8 +33,7 @@ The goal is simply to reduces the attack surface by securing the  system (less w
 - [🌐 Step 4: Windows Firewall](#-step-4-windows-firewall)  
 - [📦 Step 5: Application & Feature Control](#-step-5-application--feature-control)  
 - [🔐 Step 6: Disk Encryption](#-step-6-disk-encryption)  
-- [📊 Key Takeaways](#-key-takeaways)  
-- [🚀 Next Steps](#-next-steps)  
+- [📊 Screenshots](#-screenshots)  
 
 ---
 
@@ -111,9 +110,10 @@ Protects sensitive data at rest. If the machine is stolen, attackers cannot read
 
 ---
 
-<detail close>
-  
 ## 🖼 Screenshots
+
+<details close>
+<summary>Click to View</summary>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c72bd134-6322-47dc-a8af-1bfe14813907" width="80%" alt="Screenshot 1" /> 
@@ -125,7 +125,7 @@ Protects sensitive data at rest. If the machine is stolen, attackers cannot read
   <img src="https://github.com/user-attachments/assets/8630c281-a090-443f-8f8d-31a896c88bab" width="80%" alt="Screenshot 7" />
 </p>
 
-</detail>
+</details>
 
 ---
 
